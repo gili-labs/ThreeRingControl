@@ -78,7 +78,7 @@ Pod::Spec.new do |s|
   #
 
   #s.source       = { :path => '.' }
-  s.source       = { :git => "URL", :tag => "1.0.0" }
+  s.source       = { :git => "https://github.com/gili-labs/ThreeRingControl.git", :tag => "1.0.0" }
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
